@@ -1,0 +1,7 @@
+python-binance
+python-dotenv
+click
+streamlit
+
+
+#streamlit run app.py
